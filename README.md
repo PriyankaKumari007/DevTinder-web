@@ -9,7 +9,10 @@ Create a NavBar.jsx separate component
 Install React router dom
 Create BrowseRouter >Routes > Rute =>/Body
 Create a Footer
-
+Create a Login Page
+Install axios
+CORS- install cors in backend  => add middleware to with configurations:origin, credentials:true
+Whenever you make API calls so pas axios=> {withCredentials:true}
 
 
 BODY
