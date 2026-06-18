@@ -13,6 +13,11 @@ Create a Login Page
 Install axios
 CORS- install cors in backend  => add middleware to with configurations:origin, credentials:true
 Whenever you make API calls so pas axios=> {withCredentials:true}
+Install react-redux @reduxjs/toolkit
+Cnfigure Store
+Provider
+Create Slice
+add reducer to slice
 
 
 BODY

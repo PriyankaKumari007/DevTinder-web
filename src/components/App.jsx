@@ -1,11 +1,11 @@
-import Login from "./components/Login";
-import Body from "./components/Body";
-import Profile from "./components/Profile";
-import Footer from "./components/Footer";
+import Login from "./Login";
+import Body from "./Body";
+import Profile from "./Profile";
+import Footer from "./Footer";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import {Provider}from 'react-redux';
 import appStore from "./utils/appStore";
-import Feed from "./components/Feed";
+import Feed from "./Feed";
 
 function App() {
   return (
