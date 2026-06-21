@@ -24,6 +24,8 @@ NavBar should update as soon as user logs in
 You should be not be able to access other routes without login
 If token is not present ,redirect to login
 Logout profile
+Get the feed
+Add the feed in store
 
 
 
